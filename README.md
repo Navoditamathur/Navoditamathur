@@ -10,9 +10,9 @@ I'm Navodita Mathur, a passionate AI enthusiast with a strong foundation in Mach
 - Database & Software Development
 
 ## Tech Stack:
-Languages: Python, R, SQL 
-Frameworks: TensorFlow, PyTorch, Scikit-learn, LangChain
-Technologies: Docker, Apache Hadoop, Tableau, Streamlit, Git, MLFlow
+Languages: Python, R, SQL <br/>
+Frameworks: TensorFlow, PyTorch, Scikit-learn, LangChain <br/>
+Technologies: Docker, Apache Hadoop, Tableau, Streamlit, Git, MLFlow <br/>
 
 ## Projects
 - Biodiversity Monitoring using Computer Vision: Leveraged multimodal learning integrating camera traps and bioacoustics for species dataset generation. This ongoing research aims to develop ecological foundation models for remote sensing and biodiversity applications.
