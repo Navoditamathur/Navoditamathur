@@ -15,8 +15,8 @@ Frameworks: TensorFlow, PyTorch, Scikit-learn, LangChain <br/>
 Technologies: Docker, Apache Hadoop, Tableau, Streamlit, Git, MLFlow <br/>
 
 ## Projects
-- Biodiversity Monitoring using Computer Vision: Leveraged multimodal learning integrating camera traps and bioacoustics for species dataset generation. This ongoing research aims to develop ecological foundation models for remote sensing and biodiversity applications.
-- iNaturalist Species Classification: Working on an LLM-powered species classification pipeline with a question-answer format in Streamlit to provide detailed information about identified species.
+- Biodiversity Monitoring using Computer Vision: Leveraged multimodal learning integrating camera traps, DNA sequence and spatiotemporal metdata for species classification. This ongoing research aims to develop ecological foundation models biodiversity applications. 
+- iNaturalist Species Classification: Working on an LLM-powered species classification pipeline with a question-answer format in Streamlit to provide detailed information about identified species using agents.
 - Deforestation Detection in the Congo Basin: Developed an end-to-end pipeline using satellite imagery and geospatial analysis to map and track deforestation.
 - Flood Extent Mapping in Kenya: Applied remote sensing and geospatial libraries to measure the impact of flooding, aiding in disaster response and planning.
 - Farming Recommendation System: Developed a machine learning model predicting optimal crop choices based on environmental inputs, with a web app for dealer registration and product management.
